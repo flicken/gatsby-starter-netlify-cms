@@ -92,4 +92,11 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: ??
+    - plan: A man a plan a canal Panama
+      price: 6 billion
+      description: In Washington, however, Roosevelt's seven-man Canal Commission
+        seemed incapable of agreeing on anything.
+      items:
+        - A big canal
+        - but far away.
 ---
